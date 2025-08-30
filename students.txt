@@ -1,0 +1,6 @@
+Exemple 1
+10 10 10
+Exemple 2
+5 6 7 
+Exemple 3
+1 10 4
