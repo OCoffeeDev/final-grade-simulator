@@ -17,12 +17,12 @@ This is a simple **C program** that calculates the final grade of students based
 
 ### Input (`students.txt`)
 ```
-Mateus
+Exemple 1
 10 10 10
-Mateus Xadrez
-5 5 5
-Vinicius
-11 11 11
+Exemple 2
+5 6 7 
+Exemple 3
+1 10 4
 ```
 
 ### Program execution
@@ -36,9 +36,9 @@ What is the minimum passing grade?
 
 ### Output (`final_grade.txt`)
 ```
-Student: Mateus | Final grade: 10.00 | Approved
-Student: Mateus Xadrez | Final grade: 5.00 | Not approved
-Student: Vinicius | Final grade: 11.00 | Approved
+Student: Exemple 1 | Final grade: 10.00 | Approved
+Student: Exemple 2 | Final grade: 6.00 | Approved
+Student: Exemple 3 | Final grade: 5.00 | Not approved
 ```
 
 ## Compilation & Execution
